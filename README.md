@@ -1,2 +1,2 @@
 # Mini-project-1,2
-Banking system
+Calculator and Banking system
